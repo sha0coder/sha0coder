@@ -10,18 +10,6 @@
 
 ---
 
-### 🚀 Featured projects
-
-| Project | What it is |
-| --- | --- |
-| 🦠 [**MWEMU**](https://github.com/mwemuorg) | x86/x64 malware emulator written in Rust — the project now lives in its own org: [`mwemuorg`](https://github.com/mwemuorg) |
-| 🐍 [**pynasm**](https://github.com/sha0coder/pynasm) | Python → NASM compilation |
-| 🧬 [**eqhunt**](https://github.com/sha0coder/eqhunt) | Genetic algorithm that learns equations from data |
-| 🌐 [**web-fu**](https://github.com/sha0coder/web-fu) | The web hacking Chrome extension |
-| 🎯 [**self-evolving_exploit_offsets**](https://github.com/sha0coder/self-evolving_exploit_offsets) | Self-evolving exploit offsets |
-
----
-
 ### 🛠️ Tech I work with
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
