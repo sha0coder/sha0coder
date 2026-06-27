@@ -29,11 +29,3 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/x86%20asm-525252?style=flat&logo=nasm&logoColor=white)
-
----
-
-<p align="center">
-  <a href="https://github.com/sha0coder">
-    <img src="https://github-readme-stats.vercel.app/api?username=sha0coder&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="160">
-  </a>
-</p>
