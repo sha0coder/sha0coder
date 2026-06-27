@@ -6,6 +6,8 @@
   Exploitation, emulation and reverse engineering.
   <br>
   📍 Barcelona · 🏢 exness · ✍️ <a href="https://sha0coder.github.io">sha0coder.github.io</a> · <a href="https://jolmos.blogspot.com">jolmos.blogspot.com</a>
+  <br>
+  🐘 <a href="https://infosec.exchange/@sha0coder">@sha0coder@infosec.exchange</a>
 </p>
 
 ---
