@@ -12,7 +12,7 @@
 
 ---
 
-### 🦠 MWEMU
+### <img src="https://avatars.githubusercontent.com/u/297498661?v=4" height="22" align="top"> MWEMU
 
 x86/x64 malware emulator written in Rust — now maintained in its own organization: **[mwemuorg](https://github.com/mwemuorg)**
 
