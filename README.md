@@ -12,6 +12,12 @@
 
 ---
 
+### 🦠 MWEMU
+
+x86/x64 malware emulator written in Rust — now maintained in its own organization: **[mwemuorg](https://github.com/mwemuorg)**
+
+---
+
 ### 🛠️ Tech I work with
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
